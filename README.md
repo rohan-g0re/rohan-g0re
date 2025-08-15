@@ -26,23 +26,13 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>The Fun I Have!</h2>
+  <h2>My Contribution Heatmap!</h2>
   <br>
 
-  <!-- Snake: light/dark theme aware -->
-  <!-- Light: white background look (transparent SVG on light page), black snake, pink heatmap -->
-  <!-- Dark: dark/black background look via github-dark palette, white snake, pink heatmap -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/rohan-g0re/rohan-g0re/output/github-contribution-grid-snake-dark.svg" />
