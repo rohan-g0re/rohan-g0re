@@ -1,5 +1,3 @@
-<!-- <div style="background-color:rgb(208, 154, 191); color:rgb(201, 150, 150); padding: 20px; margin: 0; min-height: 100vh;"> -->
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rohan-g0re.rohan-g0re" />
 
 <h1 align="center">
@@ -74,5 +72,3 @@
 <hr/>
 
 <br/>
-
-<!-- </div> -->
