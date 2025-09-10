@@ -22,10 +22,6 @@
   </a>
 </div>
 
-<hr/>
-
-<br/>
-<hr/>
 
 <div align="center">
   <h2>My Contribution Heatmap!</h2>
