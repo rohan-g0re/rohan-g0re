@@ -42,7 +42,6 @@
 <hr/>
 
 <h2 align="center">What have I lately been exploring!</h2>
-<br>
 <div align=center>
   <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=rohan-g0re&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
   <br/>
@@ -51,6 +50,3 @@
 
 <br/><br/>
 
-<hr/>
-
-<br/>
