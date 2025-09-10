@@ -36,7 +36,7 @@
          src="https://raw.githubusercontent.com/rohan-g0re/rohan-g0re/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
