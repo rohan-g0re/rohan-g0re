@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  I'm currently working at <b>MARV Capital, New York as an AI Engineering Intern</b>
+  <b>Seeking Full-Time SDE, SWE and AI Engg. Roles Starting May 2026</b>
 </div>
 
 
