@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <b>Seeking Full-Time SDE, SWE and AI Engg. Roles Starting May 2026</b>
+  <h2>Seeking Full-Time SDE, SWE and AI Engg. Roles Starting May 2026</h2>
 </div>
 
 
