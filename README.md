@@ -6,7 +6,9 @@
 
 
 <div align="center">
-  <h2>Seeking Full-Time SDE and SWE Roles starting May 2026</h2>
+  <!-- <h2>Seeking Full-Time SDE and SWE Roles starting May 2026</h2> -->
+  
+  <h2>Happy Birthday Samartha Bahirgonde</h2>
 </div>
 
 
