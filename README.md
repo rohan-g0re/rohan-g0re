@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rohan-g0re.rohan-g0re" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+again!+👋;+It's+me,+Rohan+Gore!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&background=ffffff&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+again!+👋;+It's+me,+Rohan+Gore!;" />
 </h1>
+
 
 
 <div align="center">
