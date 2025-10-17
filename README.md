@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h2>My Contribution Heatmap!</h2>
+  <!-- <h2>My Contribution Heatmap!</h2> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan-g0re/rohan-g0re/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohan-g0re/rohan-g0re/output/github-contribution-grid-snake.svg" />
